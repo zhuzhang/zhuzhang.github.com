@@ -3,7 +3,7 @@ layout: post
 title: you can't learn unless you almost know already
 ---
 
-i+1的学习理论的另一种说法。
+i+1学习理论的另一种说法。
 
 # References
 [Input hypothesis](https://en.wikipedia.org/wiki/Input_hypothesis)
